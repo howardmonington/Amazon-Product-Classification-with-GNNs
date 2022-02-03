@@ -1,4 +1,4 @@
-# Amazon Computers GNN
+# Amazon Product Classification with GNNs
 
 #### -- Project Status: Completed
 
